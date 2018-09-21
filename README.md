@@ -248,6 +248,8 @@ This is my list of resources to learn data engineering & architecture skills.
 * DevOps: [http://www.oreilly.com/webops-perf/free](http://www.oreilly.com/webops-perf/free) 
 * IoT: [http://www.oreilly.com/iot/free/](http://www.oreilly.com/iot/free/) 
 ## On-Line Open Courses and Training Resources 
+* [Git on-line Book](https://git-scm.com/book/en/v1/Getting-Started)
+* [GitHub](https://github.com/)
 * [TOGAF 9.1 Framework](http://pubs.opengroup.org/architecture/togaf9-doc/arch/) 
 * [Dama.org Global Data Management Community](https://dama.org/content/body-knowledge)
 * [Learn Code the Hard Way](https://learncodethehardway.org/) 
@@ -294,7 +296,8 @@ This is my list of resources to learn data engineering & architecture skills.
 * [Stackoverflow](http://stackoverflow.com/) 
 * [tech crunch](http://techcrunch.cn/) 
 * [The top 100 Java blogs](http://www.programcreek.com/2012/11/top-100-java-developers-blogs/) 
-* [thoughtworkers洞见](http://insights.thoughtworkers.org/) * [Tim’s blog](http://timyang.net/) 
+* [thoughtworkers洞见](http://insights.thoughtworkers.org/) 
+* [Tim’s blog](http://timyang.net/) 
 * [Tutorialspoint](http://www.tutorialspoint.com/) 
 * [wow-ebook](http://www.wowebook.com/) 
 * [在线工具](http://tool.lu/) 
