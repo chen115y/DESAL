@@ -1,4 +1,4 @@
-# Data Engineering Learning
+# Data Engineering and Architecture Learning
 This is my list of resources to learn data engineering & architecture skills.
 
 ## Big Data Resources:
