@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # Data Engineering & Architecture Learning
+=======
+# Data Engineering and Architecture Learning
+>>>>>>> 4882c122712ecdf6d401041514e83bb9f2fa36bd
 This is my list of resources to learn data engineering & architecture skills.
 
 ## Big Data Resources:
