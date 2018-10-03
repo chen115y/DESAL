@@ -21,6 +21,7 @@ This is my list of resources to learn data engineering & architecture skills.
 * [Tech Crunch](http://techcrunch.com/tag/big-data/)
 ## Data Engineering GitHub Resources:
 * [GitHub – Awesome data engineering resources](https://github.com/igorbarinov/awesome-data-engineering#databases)
+* [GitHub - CheatSheet AI](https://github.com/kailashahirwar/cheatsheets-ai)
 ## Spark Resources:
 * [Spark Hub from databricks](https://sparkhub.databricks.com/resources/)
 * [Spark Tutorial from databricks](https://lintool.github.io/SparkTutorial/)
