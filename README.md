@@ -26,6 +26,7 @@ This is my list of resources to learn data engineering & architecture skills.
 * [High Scalability](http://highscalability.com/all-time-favorites/)
 * [GitHub - CheatSheet AI](https://github.com/kailashahirwar/cheatsheets-ai)
 ## Spark Resources:
+* [Databricks User Guide](https://docs.databricks.com/user-guide/index.html)
 * [Spark Hub from databricks](https://sparkhub.databricks.com/resources/)
 * [Spark Tutorial from databricks](https://lintool.github.io/SparkTutorial/)
 * [GitHub Awesome Spark](https://github.com/awesome-spark/awesome-spark)
