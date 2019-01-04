@@ -23,6 +23,7 @@ This is my list of resources to learn data engineering & architecture skills.
 * [Tech Crunch](http://techcrunch.com/tag/big-data/)
 ## Data Engineering GitHub Resources:
 * [GitHub – Awesome data engineering resources](https://github.com/igorbarinov/awesome-data-engineering#databases)
+* [GitHub - Awesome-ETL](https://github.com/pawl/awesome-etl)
 * [High Scalability](http://highscalability.com/all-time-favorites/)
 * [GitHub - CheatSheet AI](https://github.com/kailashahirwar/cheatsheets-ai)
 ## Spark Resources:
@@ -35,18 +36,9 @@ This is my list of resources to learn data engineering & architecture skills.
 * [https://dzone.com/refcardz/apache-spark](https://dzone.com/refcardz/apache-spark)
 * [Essential Apache Spark cheat sheet by MapR](https://www.mapr.com/apache-spark-dzone-ref-card)
 * [Scala vs. Python for Apache Spark](https://www.dezyre.com/article/scala-vs-python-for-apache-spark/213)
-## Scala Resources:
-* [Scala cheat sheets 1](http://docs.scala-lang.org/cheatsheets/)
-* [Scala cheat sheets 2](http://www.cheat-sheets.org/saved-copy/Scala_Cheatsheet.pdf)
-* [Scala from DZone Reference Card](https://dzone.com/refcardz/scala)
-* [Spark cheat sheet on GitHub](https://github.com/KjellSchubert/cheatsheets/blob/master/spark.md)
-* [Scala on Spark Cheat sheet](http://www.openkb.info/2015/01/scala-on-spark-cheatsheet.html)
-* [Scala-lang Cheat sheets](http://docs.scala-lang.org/cheatsheets/)
-* [Scala@cheat-sheets.org](http://www.cheat-sheets.org/saved-copy/Scala_Cheatsheet.pdf)
-* [Scala@DZone Refcard](https://dzone.com/refcardz/scala)
-* [Scala Examples](http://www.scala-lang.org/docu/files/ScalaByExample.pdf)
-* [Scala Crash Course](https://lintool.github.io/SparkTutorial/slides/day1_Scala_crash_course.pdf)
 ## Python Resources:
+* [Awesome Python Applications](https://github.com/mahmoud/awesome-python-applications)
+* [Boltons - Extended Python Starnard Library](https://github.com/mahmoud/boltons)
 * [The Hitchhiker’s Guide to Python](http://docs.python-guide.org/en/latest/) [PDF](https://media.readthedocs.org/pdf/python-guide/latest/python-guide.pdf)
 * [Python Data Science Tutorials](https://github.com/ujjwalkarn/DataSciencePython)
 * [Python 2.7 Quick Reference Sheet](http://www.astro.up.pt/~sousasag/Python_For_Astronomers/Python_qr.pdf)
@@ -97,9 +89,6 @@ This is my list of resources to learn data engineering & architecture skills.
 ## ZooKeeper Resources:
 * [Apache ZooKeeper](https://zookeeper.apache.org/)
 * [ZooKeeper Commands Manual](http://zookeeper.apache.org/doc/trunk/zookeeperAdmin.html#sc_zkCommands)
-## Pig Resources:
-* [Apache Pig](https://pig.apache.org/)
-* [Pig Commands Manual](http://mortar-public-site-content.s3-website-us-east-1.amazonaws.com/)
 ## NoSQL Databases:
 * [Nosql-database.org](http://nosql-database.org/)
 * [NoSQL wiki](https://en.wikipedia.org/wiki/NoSQL)
@@ -122,6 +111,20 @@ This is my list of resources to learn data engineering & architecture skills.
 * [Top 20 Database Management Software](http://www.capterra.com/database-management-software/#infographic)
 * [Best Relational DBMS](https://www.g2crowd.com/categories/relational-databases)
 * [Google Cloud Spanner](https://cloud.google.com/spanner/)
+## Scala Resources:
+* [Scala cheat sheets 1](http://docs.scala-lang.org/cheatsheets/)
+* [Scala cheat sheets 2](http://www.cheat-sheets.org/saved-copy/Scala_Cheatsheet.pdf)
+* [Scala from DZone Reference Card](https://dzone.com/refcardz/scala)
+* [Spark cheat sheet on GitHub](https://github.com/KjellSchubert/cheatsheets/blob/master/spark.md)
+* [Scala on Spark Cheat sheet](http://www.openkb.info/2015/01/scala-on-spark-cheatsheet.html)
+* [Scala-lang Cheat sheets](http://docs.scala-lang.org/cheatsheets/)
+* [Scala@cheat-sheets.org](http://www.cheat-sheets.org/saved-copy/Scala_Cheatsheet.pdf)
+* [Scala@DZone Refcard](https://dzone.com/refcardz/scala)
+* [Scala Examples](http://www.scala-lang.org/docu/files/ScalaByExample.pdf)
+* [Scala Crash Course](https://lintool.github.io/SparkTutorial/slides/day1_Scala_crash_course.pdf)
+## Pig Resources:
+* [Apache Pig](https://pig.apache.org/)
+* [Pig Commands Manual](http://mortar-public-site-content.s3-website-us-east-1.amazonaws.com/)
 ## BI and Visualization Resources:
 * [Power BI Visuals – GitHub](https://github.com/Microsoft/PowerBI-visuals)
 * [Visual Catalog](http://www.datavizcatalogue.com/)
