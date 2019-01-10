@@ -26,6 +26,7 @@ This is my list of resources to learn data engineering & architecture skills.
 * [GitHub - Awesome-ETL](https://github.com/pawl/awesome-etl)
 * [High Scalability](http://highscalability.com/all-time-favorites/)
 * [GitHub - CheatSheet AI](https://github.com/kailashahirwar/cheatsheets-ai)
+* [DWGeek - Data Warehouse Technology Geeks](http://dwgeek.com/)
 ## Spark Resources:
 * [Databricks User Guide](https://docs.databricks.com/user-guide/index.html)
 * [Spark Hub from databricks](https://sparkhub.databricks.com/resources/)
