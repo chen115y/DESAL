@@ -155,7 +155,13 @@ This is my list of resources to learn data engineering & architecture skills.
 * [SQL Server Central](http://www.sqlservercentral.com/)
 * [SQL Server Training](http://www.sqlserver-training.com/)
 ## Amazon AWS Cloud Resources:
+* [AWS CLI documentation](https://docs.aws.amazon.com/cli/latest/index.html)
+* [AWS Training Library](https://cloudacademy.com/library/amazon-web-services/)
 * [GitHub Awesome AWS](https://github.com/open-guides/og-aws)
+* [AWS CLI GitHub](https://github.com/aws/aws-cli)
+* [AWS Shell GitHub](https://github.com/awslabs/aws-shell)
+* [AWS Shell Automating Scripts](https://github.com/swoodford/aws)
+* [Amazon AWS Products](https://aws.amazon.com/products/)
 * [Amazon AWS](https://aws.amazon.com/)
 * [AWS wiki](https://en.wikipedia.org/wiki/Amazon_Web_Services)
 * [Free on-line AWS Training](https://www.businessnewsdaily.com/10772-aws-training-resources.html)
