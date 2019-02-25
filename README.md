@@ -200,6 +200,7 @@ This is my list of resources to learn data engineering & architecture skills.
 * [Python Language & Syntax Cheat Sheet](http://ddi.ifi.lmu.de/probestudium/2013/ws-i-3d-programmierung/tutorials/python-referenzkarte)
 * [Python QL](http://www.pythonql.org/)
 * [Getting started with Python: A list of free resources (TechRepublic)](https://drive.google.com/open?id=1_CSbaJO4o7rxo4Zh6rb5gHvMTJvkJVPd)
+* [PyInstaller for stand-alone executables](http://www.pyinstaller.org) [GitHub](https://github.com/pyinstaller/pyinstaller/tree/0f31b35fe96de59e1a6faf692340a9ef93492472)
 
 ### Scala:
 * [Scala cheat sheets 1](http://docs.scala-lang.org/cheatsheets/)
