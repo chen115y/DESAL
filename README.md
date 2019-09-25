@@ -51,6 +51,9 @@ This is my list of awesome Open Source GitHub resources to learn data engineerin
 * [Neural Networks and Deep Learning](http://www.deeplearningbook.org/)
 * [100 Days of ML Coding](https://github.com/Avik-Jain/100-Days-Of-ML-Code)## Data Engineering:
 
+### Artificial Intelligence
+* [Awesome AI Learning](https://github.com/Niraj-Lunavat/Artificial-Intelligence)
+
 ## Data Engineering
 * [GitHub – Awesome data engineering resources](https://github.com/igorbarinov/awesome-data-engineering#databases)
 * [GitHub - Awesome-ETL](https://github.com/pawl/awesome-etl)
@@ -83,6 +86,8 @@ This is my list of awesome Open Source GitHub resources to learn data engineerin
 
 ## Programming Languages:
 ### Python:
+* [Microsoft Python for Beginners Channel 9](https://channel9.msdn.com/Series/Intro-to-Python-Development?WT.mc_id=python-c9-niner)
+* [Microsoft Python for Beginners Github](https://github.com/microsoft/c9-python-getting-started)
 * [CPython – Github](https://github.com/python/cpython)
 * [The Algorithms in Python](https://github.com/TheAlgorithms/Python)
 * [Awesome Python Applications](https://github.com/mahmoud/awesome-python-applications)
