@@ -28,6 +28,7 @@ This is my list of awesome Open Source GitHub resources to learn data engineerin
 
 
 ## Data Science:
+* [Data Science iPython Notebook](https://github.com/donnemartin/data-science-ipython-notebooks)
 * [GitHub Data Science Master](https://github.com/datasciencemasters/go)
 * [GitHub Awesome Data Science](https://github.com/bulutyazilim/awesome-datascience) Repository
 * [Machine Learning & Deep Learning Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials/blob/master/README.md)
@@ -37,6 +38,7 @@ This is my list of awesome Open Source GitHub resources to learn data engineerin
 * [Koalas:Pandas API on Spark](https://github.com/databricks/koalas)
 * [Python Data Science Tutorials](https://github.com/ujjwalkarn/DataSciencePython)
 * [Python Machine Learning Book 2nd Edition](https://github.com/rasbt/python-machine-learning-book-2nd-edition)
+* [Scikit-Learn-Videos](https://github.com/justmarkham/scikit-learn-videos)
 
 ### Neural NetWork & Deep Learning:
 * [Tensorflow Org](https://www.tensorflow.org/)
