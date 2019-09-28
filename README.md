@@ -93,3 +93,6 @@ This is my list of awesome Open Source GitHub resources to learn data engineerin
 * [Awesome Python Applications](https://github.com/mahmoud/awesome-python-applications)
 * [Boltons - Extended Python Starnard Library](https://github.com/mahmoud/boltons)
 * [PyInstaller for stand-alone executables](http://www.pyinstaller.org) [GitHub](https://github.com/pyinstaller/pyinstaller/tree/0f31b35fe96de59e1a6faf692340a9ef93492472)
+
+### Vim:
+* [The ultimate Vim configuration: vimrc](https://github.com/amix/vimrc)
