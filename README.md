@@ -1,5 +1,6 @@
 
-# Data Engineering, Data Science & Data Architecture Learning
+# [EBooks](./StudyBook) for Data Professionals
+# On-line Resources for Data Professionals
 
 This is my list of awesome Open Source GitHub resources to learn data engineering, data science & data architecture skills.
 
@@ -28,6 +29,7 @@ This is my list of awesome Open Source GitHub resources to learn data engineerin
 
 
 ## Data Science:
+* [Data Science Cheat Sheet](https://github.com/abhat222/Data-Science--Cheat-Sheet)
 * [Data Science iPython Notebook](https://github.com/donnemartin/data-science-ipython-notebooks)
 * [GitHub Data Science Master](https://github.com/datasciencemasters/go)
 * [GitHub Awesome Data Science](https://github.com/bulutyazilim/awesome-datascience) Repository
@@ -45,6 +47,7 @@ This is my list of awesome Open Source GitHub resources to learn data engineerin
 ### Neural NetWork & Deep Learning:
 * [Tensorflow Org](https://www.tensorflow.org/)
 * [TensorFlow-Tutorials](https://github.com/Hvass-Labs/TensorFlow-Tutorials)
+* [TensorFlow-Tutorials-cn](https://github.com/czy36mengfei/tensorflow2_tutorials_chinese)
 * [TF Learn](https://github.com/tflearn/tflearn)
 * [TF Learn Org](http://tflearn.org/)
 * [Keras.io](https://keras.io/)
