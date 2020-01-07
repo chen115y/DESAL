@@ -1,8 +1,29 @@
+This is my list of awesome books and Open Source GitHub resources to learn data engineering, data science & data architecture skills.
 
-# [EBooks](./StudyBook) for Data Professionals
-# On-line Resources for Data Professionals
+# EBooks:
 
-This is my list of awesome Open Source GitHub resources to learn data engineering, data science & data architecture skills.
+* [Algorithms Data Structures Books](./StudyBook/AlgorithmsDataStructuresBooks/)
+* [Bash Shell Script Books](./StudyBook/BashBooks)
+* [Business Intelligence Books](./StudyBook/BusinessIntelligenceBooks)
+* [Cheat Sheets](./StudyBook/CheatSheets)
+* [Computer Vision Books](./StudyBook/ComputerVisionBooks)
+* [Database And Big Data Books](./StudyBook/DatabaseAndBigDataBooks)
+* [Data Science Books](./StudyBook/DataScienceBooks)
+* [Data Streaming Books](./StudyBook/DataStreamingBooks)
+* [Deep Learning Books](./StudyBook/DeepLearningBooks)
+* [Distributed Computing Books](./StudyBook/DistributedComputingBooks)
+* [Machine Learning Books](./StudyBook/MachineLearningBooks)
+* [Mathematics Books](./StudyBook/MathBooks)
+* [Natural Language Processing (NLP) Books ](./StudyBook/NLPBooks)
+* [Operating System (OS) Books](./StudyBook/OperatingSystemBooks)
+* [Python Books](./StudyBook/PythonBooks)
+* [R Books](./StudyBook/RBooks)
+* [Reinforcement Learning Books](./StudyBook/ReinforcementLearningBooks)
+* [Scala Books](./StudyBook/ScalaBooks)
+* [Time Series Books](./StudyBook/TimeSeriesBooks)
+
+
+# On-line Resources:
 
 ## Data Architecture:
 * [TOGAF 9.1 Framework](http://pubs.opengroup.org/architecture/togaf9-doc/arch/)
