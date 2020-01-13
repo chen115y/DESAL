@@ -1,26 +1,10 @@
 This is my list of awesome books and Open Source GitHub resources to learn data engineering, data science & data architecture skills.
 
-# EBooks:
+# Recommended Books:
 
-* [Algorithms Data Structures Books](./StudyBook/AlgorithmsDataStructuresBooks/)
-* [Bash Shell Script Books](./StudyBook/BashBooks)
-* [Business Intelligence Books](./StudyBook/BusinessIntelligenceBooks)
-* [Cheat Sheets](./StudyBook/CheatSheets)
-* [Computer Vision Books](./StudyBook/ComputerVisionBooks)
-* [Database And Big Data Books](./StudyBook/DatabaseAndBigDataBooks)
-* [Data Science Books](./StudyBook/DataScienceBooks)
-* [Data Streaming Books](./StudyBook/DataStreamingBooks)
-* [Deep Learning Books](./StudyBook/DeepLearningBooks)
-* [Distributed Computing Books](./StudyBook/DistributedComputingBooks)
-* [Machine Learning Books](./StudyBook/MachineLearningBooks)
-* [Mathematics Books](./StudyBook/MathBooks)
-* [Natural Language Processing (NLP) Books ](./StudyBook/NLPBooks)
-* [Operating System (OS) Books](./StudyBook/OperatingSystemBooks)
-* [Python Books](./StudyBook/PythonBooks)
-* [R Books](./StudyBook/RBooks)
-* [Reinforcement Learning Books](./StudyBook/ReinforcementLearningBooks)
-* [Scala Books](./StudyBook/ScalaBooks)
-* [Time Series Books](./StudyBook/TimeSeriesBooks)
+* Deep Learning, Authors: Ian Goodfellow、Yoshua Bengio、Aaron Courville, 2016
+* Hands-On Machine Learning with Keras, Scikit-Learn and TensorFlow 2nd Edtion，Author：Aurélien Géron, 2019
+* [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/), Author: Michael Nielsen, 2019
 
 
 # On-line Resources:
