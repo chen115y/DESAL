@@ -50,6 +50,7 @@ This is my list of awesome books and Open Source GitHub resources to learn data 
 
 
 ## Data Science:
+* [Pandas 1.0: powerful Python data analysis toolkit](https://dev.pandas.io/docs/index.html)
 * [Data Science Cheat Sheet](https://github.com/abhat222/Data-Science--Cheat-Sheet)
 * [Data Science iPython Notebook](https://github.com/donnemartin/data-science-ipython-notebooks)
 * [GitHub Data Science Master](https://github.com/datasciencemasters/go)
