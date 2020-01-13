@@ -1,10 +1,20 @@
 This is my list of awesome books and Open Source GitHub resources to learn data engineering, data science & data architecture skills.
 
-# Recommended Books:
+# Recommended Books (based on my reading experience):
+## Data Science:
+* __Data Science at the Command Line__, Author: Jeroen Janssens, 2015
+* __Python Data Science Handbook__, Author: Jake VanderPlas, 2017
+* __Python Data Analytics__, Author: Fabio Nalli, 2015
+* __Python for Data Analysis__, Author: Wes McKinney, 2013
 
-* Deep Learning, Authors: Ian Goodfellow、Yoshua Bengio、Aaron Courville, 2016
-* Hands-On Machine Learning with Keras, Scikit-Learn and TensorFlow 2nd Edtion，Author：Aurélien Géron, 2019
-* [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/), Author: Michael Nielsen, 2019
+## Deep Learning:
+* __Deep Learning__, Authors: Ian Goodfellow、Yoshua Bengio、Aaron Courville, 2016
+* __Hands-On Machine Learning with Keras__, Scikit-Learn and TensorFlow 2nd Edtion，Author：Aurélien Géron, 2019
+* __[Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/)__, Author: Michael Nielsen, 2019
+* __Learning Tensorflow__, Author: Tom Hope, Yehezkel S. Resheff and Itay Lieder, 2017
+* __Dive into Deep Learning__, Author: MXNet Community, 2018
+* __Deep Learning with PyTorch__, Author: Eli Stevens and Luca Antiga, 2018
+* __Introduction to Deep Learning Using R__, Author: Taweh Beysolow II, 2017
 
 
 # On-line Resources:
