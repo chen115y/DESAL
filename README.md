@@ -66,6 +66,7 @@ This is my list of awesome books and Open Source GitHub resources to learn data 
 * __The Design of Unix Operating System__, Author: Maurice Bach, 1986
 
 # Cheat Sheets:
+* [Machine Learning Glossary](https://ml-cheatsheet.readthedocs.io/en/latest/index.html#)
 * [Data Science](./CheatSheets/DataScience)
 * [Data Valut](./CheatSheets/DataValut)
 * [Deep Learning](./CheatSheets/DeepLearning)
