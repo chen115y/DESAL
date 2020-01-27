@@ -142,6 +142,8 @@ This list is not ranked in any order and all of them have their good qualities.
 
 ### Neural NetWork & Deep Learning:
 * [Tensorflow Org](https://www.tensorflow.org/)
+* [Tensorflow Hub](https://tfhub.dev/)
+* [Awesome Tensorflow](https://github.com/jtoy/awesome-tensorflow)
 * [TensorFlow-Tutorials](https://github.com/Hvass-Labs/TensorFlow-Tutorials)
 * [TensorFlow-Tutorials-cn](https://github.com/czy36mengfei/tensorflow2_tutorials_chinese)
 * [TF Learn](https://github.com/tflearn/tflearn)
@@ -150,10 +152,12 @@ This list is not ranked in any order and all of them have their good qualities.
 * [Deep Learning](http://deeplearning.net/)
 * [Deep Learning Book](http://www.deeplearningbook.org/)
 * [Neural Networks and Deep Learning](http://www.deeplearningbook.org/)
-* [100 Days of ML Coding](https://github.com/Avik-Jain/100-Days-Of-ML-Code)## Data Engineering:
+* [100 Days of ML Coding](https://github.com/Avik-Jain/100-Days-Of-ML-Code)
+
 
 ### Artificial Intelligence
 * [Awesome AI Learning](https://github.com/Niraj-Lunavat/Artificial-Intelligence)
+
 
 ## Data Engineering
 * [GitHub – Awesome data engineering resources](https://github.com/igorbarinov/awesome-data-engineering#databases)
@@ -186,6 +190,7 @@ This list is not ranked in any order and all of them have their good qualities.
 * [Amazon Redshift Utilities](https://github.com/awslabs/amazon-redshift-utils)
 
 ## Programming Languages:
+
 ### Python:
 * [Microsoft Python for Beginners Channel 9](https://channel9.msdn.com/Series/Intro-to-Python-Development?WT.mc_id=python-c9-niner)
 * [Microsoft Python for Beginners Github](https://github.com/microsoft/c9-python-getting-started)
