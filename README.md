@@ -191,6 +191,7 @@ This list is not ranked in any order and all of them have their good qualities.
 * [Python Machine Learning Book 2nd Edition](https://github.com/rasbt/python-machine-learning-book-2nd-edition)
 * [Scikit-Learn-Videos](https://github.com/justmarkham/scikit-learn-videos)
 * [Numpy Machine Learning](https://github.com/ddbourgin/numpy-ml)
+* [Introduction to Machine Learning with Python](https://github.com/amueller/introduction_to_ml_with_python)
 
 ### Neural NetWork & Deep Learning:
 * [Tensorflow Org](https://www.tensorflow.org/)
