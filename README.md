@@ -47,7 +47,7 @@ This is my list of awesome books and Open Source GitHub resources to learn data 
 * __The Art of Unix Programming__, Author: Eric Steven Raymond, 2003
 
 ## Mathematics:
-* __Mathematics for Machine Learning - Draft__, Author: Marc Peter Deisenroth, A Aldo Faisal and Cheng Soon Ong, 2019
+* __[Mathematics for Machine Learning](https://mml-book.github.io/)__, Author: Marc Peter Deisenroth, A Aldo Faisal and Cheng Soon Ong, 2019
 * __Introduction to Applied Linear Algebra__, Author: Stephen Boyd and Lieven Vandenberghe, 2018
 
 ## Distributed Systems:
