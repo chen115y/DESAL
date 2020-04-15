@@ -10,4 +10,4 @@ This is my list of awesome books and Open Source GitHub resources to learn data 
 
 # [On-line Resources](./OnlineResources.md)
 
-# [Technologies on Watching](./TechOnWatching.md)
+# [Technologies to Watch on](./TechOnWatching.md)
