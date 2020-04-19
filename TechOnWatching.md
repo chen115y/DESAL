@@ -7,3 +7,4 @@
 * [automl/auto-sklearn](https://github.com/automl/auto-sklearn) Automated Machine Learning with scikit-learn https://automl.github.io/auto-sklearn.
 * [h2oai/h2o-3](https://github.com/h2oai/h2o-3) Open Source Fast Scalable Machine Learning Platform For Smarter Applications: Deep Learning, Gradient Boosting & XGBoost, Random Forest, Generalized Linear Modeling (Logistic Regression, Elastic Net), K-Means, PCA, Stacked Ensembles, Automatic Machine Learning (AutoML), etc. http://h2o.ai.
 * [saket-maheshwary/AutoLearn](https://github.com/saket-maheshwary/AutoLearn) AutoLearn, a domain independent regression-based feature learning algorithm.
+* [PyCaret](https://pycaret.org/) PyCaret is an open source, low-code machine learning library in Python that allows you to go from preparing your data to deploying your model within seconds in your choice of notebook environment.
