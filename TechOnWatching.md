@@ -1,4 +1,5 @@
 # Technologies to Watch on
+* [Diagrams](https://diagrams.mingrammer.com) [GitHub](https://github.com/mingrammer/diagrams)
 * [Google-research/xterme](https://github.com/google-research/xtreme#tasks-and-languages) XTREME is a benchmark for the evaluation of the cross-lingual generalization ability of pre-trained multilingual models that covers 40 typologically diverse languages and includes nine tasks.
 * [keras-team/autokeras](https://github.com/keras-team/autokeras) An AutoML system based on Keras http://autokeras.com/.
 * [huggingface/transformers](https://github.com/huggingface/transformers) Transformers: State-of-the-art Natural Language Processing for TensorFlow 2.0 and PyTorch. https://huggingface.co/transformers.
@@ -9,3 +10,5 @@
 * [saket-maheshwary/AutoLearn](https://github.com/saket-maheshwary/AutoLearn) AutoLearn, a domain independent regression-based feature learning algorithm.
 * [PyCaret](https://pycaret.org/) PyCaret is an open source, low-code machine learning library in Python that allows you to go from preparing your data to deploying your model within seconds in your choice of notebook environment.
 * [Mindsdb](https://www.mindsdb.com/) MindsDB is a free, open-source autoML framework to streamline the use of neural networks. Designed to make it super easy for developers to deploy machine learning in their projects.
+* [pytorch/elastic](https://github.com/pytorch/elastic) TorchElastic allows you to launch distributed PyTorch jobs in a fault-tolerant and elastic manner.
+* [pytorch/serve](https://github.com/pytorch/serve) TorchServe is a flexible and easy to use tool for serving PyTorch models.
