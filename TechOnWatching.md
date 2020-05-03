@@ -12,3 +12,4 @@
 * [Mindsdb](https://www.mindsdb.com/) MindsDB is a free, open-source autoML framework to streamline the use of neural networks. Designed to make it super easy for developers to deploy machine learning in their projects.
 * [pytorch/elastic](https://github.com/pytorch/elastic) TorchElastic allows you to launch distributed PyTorch jobs in a fault-tolerant and elastic manner.
 * [pytorch/serve](https://github.com/pytorch/serve) TorchServe is a flexible and easy to use tool for serving PyTorch models.
+* [Julia GitHub](https://github.com/JuliaLang/julia) The Julia Language: A fresh approach to technical computing. Walks like Python. Runs like C. https://julialang.org/.
