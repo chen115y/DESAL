@@ -13,3 +13,5 @@
 * [pytorch/elastic](https://github.com/pytorch/elastic) TorchElastic allows you to launch distributed PyTorch jobs in a fault-tolerant and elastic manner.
 * [pytorch/serve](https://github.com/pytorch/serve) TorchServe is a flexible and easy to use tool for serving PyTorch models.
 * [Julia GitHub](https://github.com/JuliaLang/julia) The Julia Language: A fresh approach to technical computing. Walks like Python. Runs like C. https://julialang.org/.
+* [Quantum Computing in Python](https://github.com/sponsors/The-Singularity-Research)
+* [streamlit/streamlit](https://github.com/streamlit/streamlit) Streamlit — The fastest way to build custom ML tools https://streamlit.io
