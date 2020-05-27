@@ -15,3 +15,6 @@
 * [Julia GitHub](https://github.com/JuliaLang/julia) The Julia Language: A fresh approach to technical computing. Walks like Python. Runs like C. https://julialang.org/.
 * [Quantum Computing in Python](https://github.com/sponsors/The-Singularity-Research)
 * [streamlit/streamlit](https://github.com/streamlit/streamlit) Streamlit — The fastest way to build custom ML tools https://streamlit.io
+* [interpretml/interpret](https://github.com/interpretml/interpret) Fit interpretable machine learning models. Explain black box machine learning.
+* [tata1661/FewShotPapers](https://github.com/tata1661/FewShotPapers) This repository contains few-shot learning (FSL) papers mentioned in our FSL survey.
+* [cortexlabs/cortex](https://github.com/cortexlabs/cortex) Machine learning model serving infrastructure https://cortex.dev for AWS.
