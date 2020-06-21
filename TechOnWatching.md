@@ -18,3 +18,4 @@
 * [interpretml/interpret](https://github.com/interpretml/interpret) Fit interpretable machine learning models. Explain black box machine learning.
 * [tata1661/FewShotPapers](https://github.com/tata1661/FewShotPapers) This repository contains few-shot learning (FSL) papers mentioned in our FSL survey.
 * [cortexlabs/cortex](https://github.com/cortexlabs/cortex) Machine learning model serving infrastructure https://cortex.dev for AWS.
+* [yahoo/TensorFlowOnSpark](https://github.com/yahoo/TensorFlowOnSpark) TensorFlowOnSpark brings TensorFlow programs to Apache Spark clusters.
