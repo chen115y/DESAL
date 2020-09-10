@@ -22,3 +22,7 @@
 * [pyecharts/pyecharts](https://github.com/pyecharts/pyecharts) Python Echarts Plotting Library https://pyecharts.org
 * [Build-your-own-x](https://github.com/danistefanovic/build-your-own-x) Build your own (insert technology here) https://twitter.com/danistefanovic.
 * [mini GPT](https://mp.weixin.qq.com/s/qwz6uJ_s7Gj8RblfV1fHFQ)
+* [DeText: A Deep Neural Text Understanding Framework](https://github.com/linkedin/detext)
+* [fd is a simple, fast and user-friendly alternative to find.](https://github.com/sharkdp/fd)
+* [AL/ML Current State](https://mp.weixin.qq.com/s/JmkYYXWRJOaKVDwuqm_1lA)
+* [CleanLab](https://mp.weixin.qq.com/s/lECyzv1bOTM_1-eWXcJ5rA)
