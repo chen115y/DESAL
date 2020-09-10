@@ -21,3 +21,4 @@
 * [yahoo/TensorFlowOnSpark](https://github.com/yahoo/TensorFlowOnSpark) TensorFlowOnSpark brings TensorFlow programs to Apache Spark clusters.
 * [pyecharts/pyecharts](https://github.com/pyecharts/pyecharts) Python Echarts Plotting Library https://pyecharts.org
 * [Build-your-own-x](https://github.com/danistefanovic/build-your-own-x) Build your own (insert technology here) https://twitter.com/danistefanovic.
+* [mini GPT](https://mp.weixin.qq.com/s/qwz6uJ_s7Gj8RblfV1fHFQ)
