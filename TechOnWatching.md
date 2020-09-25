@@ -27,3 +27,4 @@
 * [AL/ML Current State](https://mp.weixin.qq.com/s/JmkYYXWRJOaKVDwuqm_1lA)
 * [CleanLab](https://mp.weixin.qq.com/s/lECyzv1bOTM_1-eWXcJ5rA)
 * [AutoGluon; AutoML Toolkit for Deep Learning](https://github.com/awslabs/autogluon)
+* [KILT - NLP models on Knowledge Intensive Language Tasks](https://ai.facebook.com/tools/kilt)
