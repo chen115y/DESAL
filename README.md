@@ -8,6 +8,6 @@ This is my list of awesome books and Open Source GitHub resources to learn data 
 
 # [My Top Websites for Machine Learning and Data Science](./Topwebsites.md)
 
-# [On-line Resources](./OnlineResources.md)
+# [Interesting On-line Resources](./OnlineResources.md)
 
 # [Technologies to Watch on](./TechOnWatching.md)
